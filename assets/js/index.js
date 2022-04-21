@@ -11,7 +11,7 @@ $(function(){
             location.href = '/login.html'
 
             // 关闭confirm询问框
-            layer.close(indexx)
+            layer.close(index)
         })
     })
 })
